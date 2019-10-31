@@ -1,0 +1,9 @@
+.containerClass {
+  padding-top: 850;
+  padding-left: 150;
+  /* md: 5 */
+}
+
+.item {
+  width: 1000px;
+}
