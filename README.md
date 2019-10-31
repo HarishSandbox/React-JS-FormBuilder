@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project if a form builder allows builders to set up their own input forms (e.g., how Google Forms, SurveyMonkey, or Quick Base allow you to build a survey with a multiple choice field). Such forms can be used by end users to submit requests.
 
 ## Available Scripts
 
